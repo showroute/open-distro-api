@@ -1,6 +1,6 @@
 {
   "index_patterns": [
-    "logs-300-10-*"
+    "logs-1111-10-*"
   ],
   "template": {
     "aliases": {
